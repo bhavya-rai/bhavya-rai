@@ -53,10 +53,8 @@
 
 ---
 
-## 🎬 Hobbies & Interests
-- Watching movies 🎥  
-- Exploring new tech 💡  
-- Working out 🏋️  
+## 🎬 Hobbies & Interests  
+- Exploring new tech 💡    
 - Coding challenges 💻  
 
 ---
