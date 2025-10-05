@@ -10,7 +10,7 @@
 ---
 
 ##  About Me
-- 🎓 Pursuing **B.Tech in Computer Science & Engineering** (MAKAUT, 2023–24 session)  
+- 🎓 Pursuing **B.Tech in Computer Science & Engineering**  
 - 💻 Passionate about **Full Stack Development (MERN + Java Backend)**  
 - 📚 Currently learning **Frontend (HTML, CSS, JavaScript, React)** & **Java for Backend**  
 - 🎯 Goal: To become **Job-Ready Full Stack Developer **  
