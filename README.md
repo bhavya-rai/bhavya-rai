@@ -4,7 +4,7 @@
 <h3 align="center">🚀 Aspiring Full Stack Developer | B.Tech CSE Student</h3>
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/0e/4f/7d/0e4f7d2f37a5117a52db4e2a4e0ddbb1.gif" width="500"/>
+  <img src="https://tse2.mm.bing.net/th/id/OIP.-D6VWpsPWbWKAvdMyOg26gHaDt?pid=Api&P=0&h=180"width="500"/>
 </p>
 
 ---
